@@ -3,7 +3,7 @@ Simple system clock if you ever need to set the alarm in a Linux terminal!
 
 ## Usage
 ### To compile
-Using gcc compiler:
+Using GNU compiler:
 ```
 gcc -o main  clock.c -pthread
 ```
@@ -22,7 +22,7 @@ which thread will start the next one. Simple example of blocking resources using
 
 ## Usage
 ### To compile
-Using gcc compiler:
+Using GNU compiler:
 ```
 gcc -o main  game.c -pthread
 ```
