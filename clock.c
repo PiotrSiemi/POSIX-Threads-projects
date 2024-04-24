@@ -24,13 +24,6 @@
  * exit                     // Exit the program
 
 *********************************************************************************************
-
-To compile:
-    gcc -o main  clock.c -pthread
-
-To run:
-    ./main
-
 */
 
 
